@@ -21,6 +21,8 @@ Aprender la interpretación de diagramas y elementos usados en los circuitos el�
 
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 
+![](https://github.com/apchimba/Informe-Laboratorio-1/blob/main/Circuito.png)
+
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
 
 
@@ -36,20 +38,9 @@ El proyecto led nocturno automático es un circuito sencillo que enciende y apag
 
 ### 4.4. MATERIAL REQUERIDO
 
+Para la elaboración de este proyecto se utilizaron los siguientes materiales:
+
 ![](https://github.com/apchimba/Informe-Laboratorio-1/blob/main/Materiales.png)
-1 bateria 
-
-1 protoboard
-
-1 transistor bipolar NPN 2N3904
-
-2 resistencias( 220Ω y 10kΩ )
-
-2 LEDS
-
-1 fotoresistor
-
-1 potenciometro de 100k
 
 
 ### 4.5. PROCEDIMIENTO
