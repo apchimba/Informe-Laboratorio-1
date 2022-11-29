@@ -36,6 +36,7 @@ El proyecto led nocturno automático es un circuito sencillo que enciende y apag
 
 ### 4.4. MATERIAL REQUERIDO
 
+![](https://github.com/apchimba/Informe-Laboratorio-1/blob/main/Materiales.png)
 1 bateria 
 
 1 protoboard
