@@ -51,5 +51,17 @@ Para la elaboración de este proyecto se utilizaron los siguientes materiales:
 
 ## 6. CONCLUSIONES
 
+En relación a lo anterior expuesto, se puede demostrar que el aprendizaje teorico es de mucha importancia a la hora manipular los distintos circuitos electrónicos, ta que nos facilitan considerablemente el uso de estos y evitar errores.
+
+
 ## 7. BIBLIOGRAFIA
 
+Latam, M. (2021, 23 abril). Fotoresistor, LDR o Fotoresistencia. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/sensores/sensor-de-luz/ldr/
+
+Fluke, F. (2021, 9 mayo). ¿Qué es la resistencia? Fluke. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-resistencia
+
+Mecafenix, I. (2022, 8 noviembre). Potenciómetro ¿Qué es y como funciona? Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/potenciometro/
+
+J.L, B. (2022, 5 abril). Transistores. Electrónica Online. https://electronicaonline.net/componentes-electronicos/transistor/
+
+Fernandez, S. (2022, 8 noviembre). ¿Qué es un led? Tipos de Led, aplicaciones y usos. Visual Led. https://visualled.com/glosario/que-es-un-led/
