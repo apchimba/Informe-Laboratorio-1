@@ -19,6 +19,8 @@ Aprender la interpretaci√≥n de diagramas y elementos usados en los circuitos el√
 
 ## 2. MARCO TEORICO
 
+![](https://github.com/apchimba/Informe-Laboratorio-1/blob/main/Componentes.png)
+
 ## 3. EXPLICACION DEL PROCEDIMIENTO
 
 ![](https://github.com/apchimba/Informe-Laboratorio-1/blob/main/Circuito.png)
