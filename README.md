@@ -3,7 +3,7 @@
 
 - Andrango Arianna
 - Chimba Alexis
-- Pablo
+- Chalco Pablo
 
 ## 1. OBJETIVOS
 
