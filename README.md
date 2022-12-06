@@ -64,6 +64,8 @@ Para la elaboración de este proyecto se utilizaron los siguientes materiales:
 
 ## 5. VIDEO
 
+https://youtu.be/vUdz7hPB1lI
+
 ## 6. CONCLUSIONES
 
 En relación a lo anterior expuesto, se puede demostrar que el aprendizaje teorico es de mucha importancia a la hora manipular los distintos circuitos electrónicos, ta que nos facilitan considerablemente el uso de estos y evitar errores.
